@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abhiraj.
+- 👀 I’m interested in Game Development.
+- 🌱 I’m currently learning Game Development from outscal
+- 📫 Contact me through email - abhirajraja6403@gmail.com
+- 😄 Pronouns: he/him
