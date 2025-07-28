@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Abhiraj.
 - 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning Game Development from outscal
+- 🌱 I’m learnt Game Development from outscal.
+- Working as Unity Developer at Advaita Interactive.
 - 📫 Contact me through email - abhirajraja6403@gmail.com
 - 😄 Pronouns: he/him
